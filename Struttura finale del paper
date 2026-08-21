@@ -1,0 +1,28 @@
+1. Introduction
+
+2. Literature Review
+
+3. Dataset
+
+4. Methodology
+
+   4.1 Markowitz
+   4.2 Black-Litterman
+   4.3 QAOA
+   4.4 VQE
+
+5. Walk-Forward Backtest
+
+6. Statistical Validation
+
+   6.1 Jobson-Korkie
+   6.2 Deflated Sharpe
+   6.3 White Reality Check
+
+7. Monte Carlo Analysis
+
+8. Results
+
+9. Conclusion
+
+10. Appendix
