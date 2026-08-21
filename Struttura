@@ -1,0 +1,20 @@
+QuantumFinancePaper/
+
+├── data/
+│   └── Quantum_dataset.csv
+│
+├── R/
+│
+├── results/
+│
+├── 01_data_preparation.R
+├── 02_markowitz.R
+├── 03_black_litterman.R
+├── 04_qaoa.R
+├── 05_vqe.R
+├── 06_walkforward.R
+├── 07_montecarlo.R
+├── 08_statistics.R
+├── 09_plots.R
+│
+└── master_study.R
