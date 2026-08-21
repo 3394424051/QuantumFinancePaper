@@ -1,0 +1,22 @@
+Lo studio confronta:
+
+Buy & Hold QQQ
+Equal Weight
+Markowitz
+Black-Litterman
+QAOA
+VQE
+
+sull'intero campione 2022-2026 del dataset fornito.
+
+Le metriche principali da riportare nel paper sono:
+
+CAGR
+Sharpe Ratio
+Sortino Ratio
+Volatility
+Max Drawdown
+VaR 95%
+CVaR 95%
+
+con validazione Walk-Forward e Monte Carlo Bootstrap.
